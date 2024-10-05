@@ -3,7 +3,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
 
 # Bot token from Telegram
-BOT_TOKEN = '7490099653:AAFwf-ePtVaIsODfFWZQSwfvxDjntdidDYs'
+BOT_TOKEN = '7522198105:AAHv3Epb3A3raW1oOD0e67QVXKZxXBf8bq4'
 
 # Start command handler
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
